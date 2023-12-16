@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194901412336",
+    "project_id": "hallo-there-d1c69",
+    "storage_bucket": "hallo-there-d1c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194901412336:android:3ad064dcf2750d1daa7535",
+        "android_client_info": {
+          "package_name": "com.wtsystems.hallothere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDX25MAuLvo9dq8d-c0-1LXGewdXaUTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

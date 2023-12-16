@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HalloThere" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimaryDark">@color/princiapl</item>
+    </style>
+    
+    <style name="Toolbar" parent="Theme.AppCompat.NoActionBar">
+
+    </style>
+</resources>
